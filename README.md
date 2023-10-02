@@ -1,0 +1,3 @@
+- once project is fetch from github
+- write this command in terminal "flutter pub get"
+- once complete nowyou can run this code on mobile/iphone by write this code in terminal "flutter run" or by pressing the the play button on top
